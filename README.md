@@ -1,6 +1,6 @@
 <ul>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(1).pdf" style="text-decoration:none;">100 Years of Physical Chemistry</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(2).pdf" style="text-decoration:none;">Physical Chemistry</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(2).pdf" style="text-decoration:none;">Physical Chemistry Book: Gilbert William Castellan</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(3).pdf" style="text-decoration:none;">Biophysical Chemistry</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(4).pdf" style="text-decoration:none;">Physical Chemistry: Quantum Chemistry and Molecular Interactions </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(5).pdf" style="text-decoration:none;">Problems in Physical Chemistry for JEE (Main & Advanced) </a></b></li>
