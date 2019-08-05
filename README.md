@@ -57,9 +57,9 @@
  
 </ul>
 
+</br>
 
-
-
+<h1>Good and Bad Effects of Chemistry</h1>
 
 <p><strong>What is Chemistry?</strong></p>
 <p><a href="https://en.wikipedia.org/wiki/Chemistry" target="_blank" rel="nofollow noopener"><strong>Chemistry</strong></a>&nbsp;(a creative discipline chiefly concerned with the&nbsp;<strong>study of&nbsp;</strong><a href="https://en.wikipedia.org/wiki/Matter" target="_blank" rel="nofollow noopener"><strong>matter</strong></a><strong>:</strong>&nbsp;its structure, composition, properties, and reactivity through&nbsp;<a href="https://en.wikipedia.org/wiki/Chemical_reaction" target="_blank" rel="nofollow noopener">chemical reaction</a>s) is important because everything you do like cooking,&nbsp;<a href="https://en.wikipedia.org/wiki/Fermentation" target="_blank" rel="nofollow noopener">fermentation</a>, glass making, and&nbsp;<a href="https://en.wikipedia.org/wiki/Metallurgy" target="_blank" rel="nofollow noopener"><strong>metallurgy</strong></a>&nbsp;is chemistry! Even our Human body is made of&nbsp;<a href="https://en.wikipedia.org/wiki/Chemical_element" target="_blank" rel="nofollow noopener">chemical element</a>s.</p>
