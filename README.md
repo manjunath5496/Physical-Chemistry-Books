@@ -44,11 +44,13 @@ A-level Chemistry </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(32).pdf" style="text-decoration:none;">Inorganic and Physical Chemistry</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(33).pdf" style="text-decoration:none;">Mathematical Physical Chemistry: Practical and Intuitive Methodology </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(34).pdf" style="text-decoration:none;">Mathematics
-for Physical Chemistry</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(35).pdf" style="text-decoration:none;">Physical Chemistry: Thermodynamics, Statistical Mechanics, and Kinetics </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(38).pdf" style="text-decoration:none;">Physical
-Chemistry of Polymer Solutions </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(34).pdf" style="text-decoration:none;">Mathematics for Physical Chemistry</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(35).pdf" style="text-decoration:none;">Physical Chemistry: Thermodynamics, Statistical Mechanics, and Kinetics </a></b></li>  
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(36).pdf" style="text-decoration:none;">Chemical Kinetics and Reaction Dynamics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(37).pdf" style="text-decoration:none;">Chemical Thermodynamics: Basic Concepts And Methods </a></b></li> 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(38).pdf" style="text-decoration:none;">Physical Chemistry of Polymer Solutions </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(39).pdf" style="text-decoration:none;">The Science of Cooking: Understanding the Biology and Chemistry Behind Food and Cooking </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(40).pdf" style="text-decoration:none;">Linus Pauling: Selected Scientific Papers (volume-1)  </a></b></li>
 
