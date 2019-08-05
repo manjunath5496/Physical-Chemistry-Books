@@ -23,7 +23,34 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(17).pdf" style="text-decoration:none;">Basic Physical Chemistry: A Complete Introduction on Bachelor of Science Level </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(18).pdf" style="text-decoration:none;">A Working Method Approach for Introductory Physical Chemistry Calculations: Numerical and Graphical Problem Solving </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(19).pdf" style="text-decoration:none;">Physical Chemistry II</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(20).pdf" style="text-decoration:none;">Instant Notes Physical Chemistry</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(21).pdf" style="text-decoration:none;">Physical Chemistry Formula Booklet</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(22).pdf" style="text-decoration:none;">AS And
+A-level Chemistry </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(23).pdf" style="text-decoration:none;"> Concise Physical Chemistry </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(24).pdf" style="text-decoration:none;">Quantities, Units and Symbols in Physical Chemistry</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(25).pdf" style="text-decoration:none;">Physical Chemistry: A Very Short Introduction</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(26).pdf" style="text-decoration:none;">Dictionary Of Physics, Chemistry, Biology, Mathematics</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(27).pdf" style="text-decoration:none;">Physical Chemistry of Macromolecules: Basic Principles and Issues</a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(28).pdf" style="text-decoration:none;">Quanta, Matter, and Change: A molecular approach to physical chemistry</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(29).pdf" style="text-decoration:none;">Selected Problems in Physical Chemistry</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(30).pdf" style="text-decoration:none;">The Meaning of Quantum Theory</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(31).pdf" style="text-decoration:none;">Water: A Comprehensive Treatise</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(32).pdf" style="text-decoration:none;">Inorganic and Physical Chemistry</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(33).pdf" style="text-decoration:none;">Mathematical Physical Chemistry: Practical and Intuitive Methodology </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(34).pdf" style="text-decoration:none;">Mathematics
+for Physical Chemistry</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(35).pdf" style="text-decoration:none;">Physical Chemistry: Thermodynamics, Statistical Mechanics, and Kinetics </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(38).pdf" style="text-decoration:none;">Physical
+Chemistry of Polymer Solutions </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(39).pdf" style="text-decoration:none;">The Science of Cooking: Understanding the Biology and Chemistry Behind Food and Cooking </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(40).pdf" style="text-decoration:none;">Linus Pauling: Selected Scientific Papers (volume-1)  </a></b></li>
 
                                 
  
