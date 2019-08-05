@@ -26,8 +26,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(19).pdf" style="text-decoration:none;">Physical Chemistry II</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(20).pdf" style="text-decoration:none;">Instant Notes Physical Chemistry</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(21).pdf" style="text-decoration:none;">Physical Chemistry Formula Booklet</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(22).pdf" style="text-decoration:none;">AS And
-A-level Chemistry </a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(22).PDF" style="text-decoration:none;">AS And A-level Chemistry </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(23).pdf" style="text-decoration:none;"> Concise Physical Chemistry </a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/phc(24).pdf" style="text-decoration:none;">Quantities, Units and Symbols in Physical Chemistry</a></b></li>
